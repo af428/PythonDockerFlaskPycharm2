@@ -16,7 +16,7 @@ View the first repository in this collection (no flask yet) by clicking on [Firs
 * ![new city created shown in postman](screenshots/createnewcity.jpg)
 
 ## New city in list
-* ![show the new city in list](screenshots/newcitylsting.png)
+* ![show the new city in list](screenshots/newcitylisting.png)
 
 ## Edit record with PUT
 * ![editing record with put postman screenshot](screenshots/editingput.png)
