@@ -28,5 +28,5 @@ View the first repository in this collection (no flask yet) by clicking on [Firs
 * ![deleting a record with DELETE postman screenshot](screenshots/delete.PNG)
 
 ## List with record deleted
-* ![deleted record not in listing postman screenshot](screenshots/recorddelete.PNG)
+* ![deleted record not in listing postman screenshot](screenshots/recordeddelete.PNG)
 
