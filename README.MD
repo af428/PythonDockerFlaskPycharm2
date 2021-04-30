@@ -12,11 +12,11 @@ View the first repository in this collection (no flask yet) by clicking on [Firs
 * ![SQL Database in PyCharm](screenshots/SQL.png)
 
 ## New Screenshot
-* ![new html screenshot](screenshots/new.png)
+* ![new_html_screenshot](screenshots/new.PNG)
 
-## New Screenshot
-* ![new html screenshot](screenshots/new.png)
+## New Added Screenshot
+* ![new_added_htnl screenshot](screenshots/newadded.PNG)
 
-## New Screenshot
-* ![new html screenshot](screenshots/new.png)
+## View Screenshot
+* ![new view html screenshot](screenshots/newshown.PNG)
 
